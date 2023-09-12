@@ -1,0 +1,5 @@
+{
+    "debug.autoExpandLazyVariables": true,
+    "debug.console.closeOnEnd": true,
+    "debug.openExplorerOnEnd": true
+}
